@@ -2,10 +2,6 @@
 
 AutoHotkey script for automating property exchanges in GTA Online.
 
-## ⚠️ WARNING
-
-**This script exploits a game glitch and violates Rockstar's Terms of Service. Using it may result in permanent account ban. Use at your own risk.**
-
 ---
 
 ## 📋 Requirements
